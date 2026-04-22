@@ -1,16 +1,14 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=FF0000&descAlign=0&descAlignY=0&section=header&reversal=true"/>
+<br>
 
-<!--
-**FullKalter/FullKalter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  <b>`プログラマー`</b>
+  <samp>
+      <br>
+      Hello!  <b> Welcome to my profile! </b>
+  </samp>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=FF0000&descAlign=0&descAlignY=0&section=footer&reversal=false">
