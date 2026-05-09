@@ -30,5 +30,12 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FullKalter&theme=2077) |
 |:-:|
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FullKalter/FullKalter/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FullKalter/FullKalter/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/FullKalter/FullKalter/output/pacman-contribution-graph.svg">
+</picture>
+
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=FF0000&descAlign=0&descAlignY=0&section=footer&reversal=false">
