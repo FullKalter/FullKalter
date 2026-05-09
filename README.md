@@ -22,12 +22,12 @@
 <!-- Graficos -->
 <div align="center">
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FullKalter&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FullKalter&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FullKalter&theme=2077) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FullKalter&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FullKalter&theme=2077) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FullKalter&theme=2077) |
 | :-: | :-: | :-: |
 
 <div align="center">
   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FullKalter&theme=2077) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FullKalter&theme=2077) |
 |:-:|
 
 <br>
