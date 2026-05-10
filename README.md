@@ -11,6 +11,7 @@
   </samp>
 </div>
 
+<!-- Mensagem Rotativa-->
 <div align="center" width="100%">
   
  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F70606&width=435&width=900&size=22&center=true&lines=Hello!...;My++name+is+Pedro!...;I+am+from+Brasil!...;Be+Welcome!!!" alt="Typing SVG"/>
@@ -30,6 +31,7 @@
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FullKalter&theme=2077) |
 |:-:|
 
+<!-- Grafico Pac-Man-->
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FullKalter/FullKalter/output/pacman-contribution-graph-dark.svg">
